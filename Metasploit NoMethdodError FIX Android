@@ -1,0 +1,18 @@
+VIDEO LINK
+https://www.youtube.com/watch?v=Cuj7qWNBfY8
+
+Metasploit Framework (NoMethodError) fix for android termux.
+
+ERROR
+
+(undefined method `without' for #<Bundler::Settings:0x00000074f9e1b5e0> (NoMethodError)
+
+FIX
+
+1. Download FIX file
+
+   $ wget https://github.com/termux/termux-packages/files/2912002/fix-ruby-bigdecimal.sh.txt
+
+2. Install fix file
+
+   $ bash fix-ruby-bigdecimal.sh.txt
