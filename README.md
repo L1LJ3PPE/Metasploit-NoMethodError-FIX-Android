@@ -12,3 +12,5 @@ $ wget https://github.com/termux/termux-packages/files/2912002/fix-ruby-bigdecim
 INSTALL FIX
 
 $  bash fix-ruby-bigdecimal.sh.txt
+
+YT LINK: https://www.youtube.com/watch?v=Cuj7qWNBfY8&t=
